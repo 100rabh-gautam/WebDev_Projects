@@ -88,7 +88,7 @@ function Navbar() {
               Graphics & Design
             </Link>
             <Link className="link menuLink" to="/">
-              Video & Animation
+              Video & Animation 
             </Link>
             <Link className="link menuLink" to="/">
               Writing & Translation
